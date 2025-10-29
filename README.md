@@ -20,8 +20,9 @@ RN05 - O sistema deve utilizar um método confiável e auditável para gerar res
 
 # Diagrama de Classes
 
-![Diagrama de Classes](DiagramadeClasses.png)
+<img width="835" height="420" alt="DiagramadeClasses" src="https://github.com/user-attachments/assets/23e79dd0-5a32-4d4f-9553-9203fb3859d2" />
 
 # Diagrama de Casos de Uso
 
-![Diagrama de Classes](DiagramadeCasosDeUso.png)
+<img width="907" height="471" alt="DiagramadeCasosDeUso" src="https://github.com/user-attachments/assets/750073d1-902d-4598-bfe0-024264cd299f" />
+
