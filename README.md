@@ -19,3 +19,5 @@ RN04 - O sistema deve armazenar de forma permanente todas as informações relev
 RN05 - O sistema deve utilizar um método confiável e auditável para gerar resultados aleatórios nos lançamentos dos dados  
 
 # Diagrama de Classes
+
+![Diagrama de Classes](./images/DiagramadeClasses.png)
